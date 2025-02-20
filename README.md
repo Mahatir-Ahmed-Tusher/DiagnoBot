@@ -92,8 +92,8 @@ DiagnoBot transforms a static, authoritative medical reference into a dynamic, i
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Mahatir-Ahmed-Tusher/EarlyMed-DiagnoBot.git
-   cd EarlyMed-DiagnoBot
+   git clone https://github.com/Mahatir-Ahmed-Tusher/DiagnoBot.git
+   cd DiagnoBot
    ```
 
 2. **Set Up a Virtual Environment (Recommended):**
