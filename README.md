@@ -2,7 +2,7 @@
 
 
 # EarlyMed DiagnoBot
-DiagnoBot is an innovative, AI-powered medical assistant designed to provide reliable, context-aware health information based on a comprehensive medical reference. Developed as a side project of EarlyMed by [Mahatir Ahmed Tusher](https://github.com/Mahatir-Ahmed-Tusher), DiagnoBot leverages state-of-the-art natural language processing and retrieval techniques to answer your medical queries with precision and empathy.
+DiagnoBot is an innovative, AI-powered medical assistant designed to provide reliable, context-aware health information based on a comprehensive medical reference. Developed as a side project of EarlyMed, DiagnoBot leverages state-of-the-art natural language processing and retrieval techniques to answer your medical queries with precision and empathy.
 
 ---
 
